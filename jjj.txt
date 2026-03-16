@@ -1,3 +1,0 @@
-this is first line
-this isb second line in jjj.txt
-D
